@@ -1,0 +1,13 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Majestic.mp3";		
+f[2]	= "02 Too Late.mp3";		
+f[3]	= "03 Lovin', Touchin', Squeezin'.mp3";		
+f[4]	= "04 City of the Angels.mp3";		
+f[5]	= "05 When You're Alone (It Ain't Easy).mp3";		
+f[6]	= "06 Sweet and Simple.mp3";		
+f[7]	= "07 Lovin' You Is Easy.mp3";		
+f[8]	= "08 Just the Same Way.mp3";		
+f[9]	= "09 Do You Recall.mp3";		
+f[10]	= "10 Daydream.mp3";		
+f[11]	= "11 Lady Luck.mp3";		
